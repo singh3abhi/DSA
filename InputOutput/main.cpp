@@ -1,7 +1,10 @@
-#include <bits/stdc++.h> 
-using namespace std;   
+#include <bits/stdc++.h>
+using namespace std;
+/*
+Mac shortcut to run the code in I/O file
+-> shift + command + b
+*/
 
-int main()
-{
+int main() {
   cout << "Hello World132";
 }
